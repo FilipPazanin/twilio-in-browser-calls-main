@@ -1,6 +1,6 @@
 $(function () {
     var device;
-    var hardcodedToken = "eyJjdHkiOiJ0d2lsaW8tZnBhO3Y9MSIsInR5cCI6IkpXVCIsImFsZyI6IkhTMjU2In0.eyJpc3MiOiJTS2RiOTQ3NTkzZWZkMTdkZWRhM2JlZDk5ZDQzMzE1ODE3IiwiZXhwIjoxNzI4OTkxNTc2LCJncmFudHMiOnsidm9pY2UiOnsib3V0Z29pbmciOnsiYXBwbGljYXRpb25fc2lkIjoiQVA3NzhkYjU3MWY2YzQ3NjU3NmYwZDM1NTY0M2U0MjVkOCJ9fSwiaWRlbnRpdHkiOiJmaWxpcC5wYXphbmluQGNvZ25pc20uY29tIn0sImp0aSI6IlNLZGI5NDc1OTNlZmQxN2RlZGEzYmVkOTlkNDMzMTU4MTctMTcyODk4NzkwNCIsInN1YiI6IkFDYTAzY2MxODgyOTg5ZjU3ZDg0NmI5MDUwYzdmNDlhYjQifQ.fjJYFHAFuqhZ8HYzrhAz-KpvRQfk-y-p9XNj7jhum-A"
+    var hardcodedToken = "**********************"
     log("Using hardcoded token: " + hardcodedToken);
 
     // Setup Twilio.Device
